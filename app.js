@@ -3,3 +3,5 @@ function saludar() {
   }
   
   saludar();
+
+let nombre = "Ayleen";
